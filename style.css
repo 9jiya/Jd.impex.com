@@ -1,0 +1,50 @@
+#image_logo{
+    width: 100px;
+    text-align: right;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.h{
+    font-size: 50px;
+    color: black;
+    float: right;
+    margin-right: 1050px;
+    margin-top: 10px;
+}
+.removedbg{
+    width: 100px;
+}
+.h1{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.aboutp{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .topnav a:hover {
+	background-color: #bbb;
+	color: black;
+  }
+
+  .topnav-right {
+	float: right;
+  }
